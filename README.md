@@ -1,8 +1,8 @@
 <img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
 
-# Thema
+# JavaScript Array Methoden
 
-- In diesem Repository findest du den Code zum Video: "Videotitel".
+- In diesem Repository findest du den Code zum Video: "Diese 5 JavaScript Array Methoden musst du kennen".
 - Falls du das Video noch nicht gesehen hast kannst du es hier: 
 [Link zum Video](https://www.youtube.com) anschauen.
 
