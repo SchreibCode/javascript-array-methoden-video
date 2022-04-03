@@ -1,10 +1,10 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/javascript-array-methoden/blob/main/img/javascript-array-methods.jpg" width="450" alt="Youtube Thumbnail"/>
 
 # JavaScript Array Methoden
 
-- In diesem Repository findest du den Code zum Video: "Diese 5 JavaScript Array Methoden musst du kennen".
+- In diesem Repository findest du den Code zum Video: "5 JavaScript Array Methoden die du kennen musst".
 - Falls du das Video noch nicht gesehen hast kannst du es hier: 
-[Link zum Video](https://www.youtube.com) anschauen.
+[Link zum Video](https://youtu.be/DYU0grIQyno) anschauen.
 
 ## Wie kriege ich den Code?
 
